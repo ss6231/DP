@@ -1,3 +1,5 @@
+//A sequence of numbers is called a zig-zag sequence if the differences between successive numbers strictly alternate between positive and negative
+//return the length of the longest subsequence of sequence that is a zig-zag sequence. A subsequence is obtained by deleting some number of elements (possibly zero) from the original sequence, leaving the remaining elements in their original order
 public class zigzag {
 	public static void main (String [] args) {
 		int [] arr = {70, 55, 13, 2, 99, 2, 80, 80, 80, 80, 100, 19, 7, 5, 5, 5, 1000, 32, 32 };

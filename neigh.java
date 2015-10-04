@@ -1,4 +1,4 @@
-
+//description found here: http://community.topcoder.com/stat?c=problem_statement&pm=2402&rd=5009
 import java.util.Arrays;
 public class neigh {
 	public static void main (String [] args) {

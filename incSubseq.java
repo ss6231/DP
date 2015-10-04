@@ -1,3 +1,4 @@
+//classic greatest increasing subsequence problem
 public class incSubseq {
 	public static void main (String [] args) {
 		int [] arr = {10, 22, 9, 33, 21, 50, 41, 60, 80 };

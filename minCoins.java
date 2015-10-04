@@ -1,3 +1,5 @@
+//given a set of coins and a sum, S, find the minimum number of coins whose total sum is
+//less than or equal to S
 public class minCoins {
 	public static void main (String [] args) {
 		int [] arr = {25,5,10};
